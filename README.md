@@ -1,10 +1,11 @@
-#### Jax Playground
+## Jax Playground
 Examples with Jax + Flax framework.
 
 #### Setup
 ```bash
 conda create -n jax-m2 python=3.11
 conda activate jax-m2
+pip install -r requirements.txt
 ```
 
 To run any of the following,
