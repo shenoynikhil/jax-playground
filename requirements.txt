@@ -1,0 +1,6 @@
+tqdm
+optax
+jax
+flax
+torch
+torchvision
